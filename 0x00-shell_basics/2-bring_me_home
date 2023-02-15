@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Changed working directory to home directory: $HOME"
+echo "HOME"
